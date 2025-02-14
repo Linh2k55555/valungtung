@@ -25,7 +25,7 @@
 const messages = [
     "Vợ chắc chưa?",
     "Vợ thực sự chắc chứ??",
-    "Em khum đồng ý được à?",
+    "Vợ khum đồng ý được à?",
     "Đồng ý đi maàa...",
     "Vợ suy nghĩ lại đi!",
     "Vợ mà chọn Không, thì anh rất buồn đấy...",
