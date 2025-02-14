@@ -23,16 +23,16 @@
 })();
 
 const messages = [
-    "Em chắc chưa?",
-    "Em thực sự chắc chứ??",
+    "Vợ chắc chưa?",
+    "Vợ thực sự chắc chứ??",
     "Em khum đồng ý được à?",
     "Đồng ý đi maàa...",
-    "Em suy nghĩ lại đi!",
-    "Em mà chọn Không, thì anh rất buồn đấy...",
-    "Anh sẽ rất buồn đấy...",
-    "Anh sẽ rất rất buồn đấyyyyyy...",
-    "Ok fine, anh không hỏi em nữa...",
-    "Anh đùa thui, làm ơn chọn Có đi mà, anh năn nỉ! ❤️"
+    "Vợ suy nghĩ lại đi!",
+    "Vợ mà chọn Không, thì anh rất buồn đấy...",
+    "Chồng sẽ rất buồn đấy...",
+    "Chồng sẽ rất rất buồn đấyyyyyy...",
+    "Ok fine, Chồng không hỏi vợ nữa...",
+    "Chồng đùa thui, làm ơn chọn Có đi mà, anh năn nỉ! ❤️"
 ];
 
 let messageIndex = 0;
